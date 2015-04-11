@@ -1,1 +1,3 @@
-# tp0-C
+# tp0
+Lenguaje: C
+Nombre: Hola mundo!
